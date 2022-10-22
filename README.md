@@ -12,16 +12,16 @@ Coming up!
 
 ### This is the landing screen.
 
-(assets/first-page-app.png)
+![app-pic](assets/first-page-app.png)
 
 ### The user choose a date range (YYYY-MM-DD) and the App will use the APOD API from NASA to generate 1 picture per day, based on the date range input.
 
-(assets/Searched-App.png)
+![app-pic](/assets/Searched-App.png)
 
 ### Some pictures are copyrighted protected (from 3rd party photographers). The photo is hidden, however, the user can still read the description by clicking on the picture icon.
 
-(assets/copyrighted-photos-app.png)
+![app-pic](../assets/copyrighted-photos-app.png)
 
 ### All the other pictures can be seen, in a larger format, along with the description, by clicking on the picture icon.
 
-(assets/regular-picture-app.png)
+![app-pic](./assets/regular-picture-app.png)
