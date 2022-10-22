@@ -1,14 +1,15 @@
 {
   "expo": {
-    "name": "space-explorer-mobile",
-    "slug": "space-explorer-mobile",
+    "name": "Space Explorer",
+    "slug": "Space-Explorer",
+    "description": "This app was created for educational purposes and has no affiliation with NASA",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/rocket-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "image": "./assets/app-welcome-screen-final.png",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
