@@ -14,11 +14,11 @@ I created this project to serve as the "mobile" version of my Space Explorer Rea
 
 ![app-pic](assets/first-page-app.png)
 
-### The user choose a date range (YYYY-MM-DD) and the App will use the APOD API from NASA to generate 1 picture per day, based on the date range input.
+### The user chooses a date range (YYYY-MM-DD) and the App will use the APOD API from NASA to generate 1 picture per day, based on the date range input.
 
 ![app-pic](assets/Searched-App.png)
 
-### Some pictures are copyrighted protected (from 3rd party photographers). The photo is hidden, however, the user can still read the description by clicking on the picture icon.
+### Some pictures are copyright protected (from 3rd party photographers). The photo is hidden, however, the user can still read the description by clicking on the picture icon.
 
 ![app-pic](assets/copyrighted-photos-app.png)
 
